@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-08-03
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Ewallet
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2023-Jun-09 04:00:00
+PRPC-Engine: 8.8.2 PRPC-8.8.2-283 ()
+Operator: gaayathriaids@smvec.ac.in
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: Ewallet_010101_20230609T112821_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2023-Jun-09 11:28:29
+Pega-Codeset-Name: Customer
+Instance-Count: 4072
+
+Name: FileMetadata
+
